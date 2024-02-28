@@ -10,14 +10,14 @@
 - [AdaSchool - PRO Talento](https://learn.ada-school.org/certifications/65b4244bf81c1b9d6b85b7e4)
 
 
-- [Creando un portafolio en Github](https://www.youtube.com/)
-
 
 <h2> 🤳 Conecta conmigo:</h2>
 
 [<img align="left" alt="BrianVargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
 [linkedin]: https://www.linkedin.com/in/brian-vargas-nagles/
+
+
 
 <!--
 **naekm/naekmv** es un repositorio ✨ _special_ ✨ ya que el archivo `README.md` (este archivo ) aparece directamente en tu perfil de Github.

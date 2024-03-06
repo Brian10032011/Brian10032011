@@ -1,9 +1,9 @@
 <h1>Hello World, ¡Soy Brian Analista de Datos! <br/><a href="https://github.com/Brian10032011">Python Data Science</a>, <a href="https://www.linkedin.com/in/brian-vargas-nagles/">Content Creator</a>
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
-  - Proyecto Integrador Laberintos: Python, Estructuras de Control, POO (https://github.com/naekmv/LabActiveDirectory) 
-  - Proyecto Integrador Bases de Datos: SQL, MySQL, SQlite (https://github.com/naekmv/LabActiveDirectory) 
-  - Proyecto Procesamiento de Datos:(https://github.com/naekmv/LabActiveDirectory) 
+  - Proyecto Integrador Laberintos: Python, Estructuras de Control, POO (https://github.com/Brian10032011/Proyecto-integrador) 
+  - Proyecto Integrador Bases de Datos: SQL, MySQL, SQlite (https://github.com/Brian10032011/Proyecto_bases_de_datos) 
+  - Proyecto Procesamiento de Datos: Numpy, Pandas, API´s, Matplotlib, Plotly, Sklearn ([https://github.com/naekmv/LabActiveDirectory](https://github.com/Brian10032011/Proyecto_procesamiento_de_datos)) 
 
 <h2>📄 Certificados </h2>
 
